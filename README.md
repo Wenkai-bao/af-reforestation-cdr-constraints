@@ -6,8 +6,8 @@ This repository contains the analysis code for the manuscript **“Global socioe
 
 The analysis workflow consists of two main parts:
 
-1. **1. Data preprocessing** — prepares the input data used in the analysis.
-2. **2. Regression_SHAP Interpretation_Plotting** — fits the random forest regression models, evaluates model performance, performs SHAP-based model interpretation, and produces the plots.
+1. **Data preprocessing** — prepares the input data used in the analysis.
+2. **Regression_SHAP Interpretation_Plotting** — fits the random forest regression models, evaluates model performance, performs SHAP-based model interpretation, and produces the plots.
 
 
 ## Data availability
