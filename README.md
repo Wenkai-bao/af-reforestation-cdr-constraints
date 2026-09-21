@@ -1,4 +1,4 @@
-# Global socioeconomic constraints on afforestation and reforestation-based carbon dioxide removal
+# Code for "Global socioeconomic constraints on afforestation and reforestation-based carbon dioxide removal"
 
 This repository contains the analysis code for the manuscript **“Global socioeconomic constraints on afforestation and reforestation-based carbon dioxide removal.”**
 
